@@ -1,0 +1,7 @@
+## DSA Problems
+Repo for all dsa problems I practice. Update Daily.
+
+### Backtracking
+- knight tour
+- knight tour with warnsdoff algorithm
+- n-queens problem (all combinations)
