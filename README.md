@@ -5,3 +5,7 @@ Repo for all dsa problems I practice. Update Daily.
 - knight tour
 - knight tour with warnsdoff algorithm
 - n-queens problem (all combinations)
+- word break problem (recurssive)
+
+### Dynamic Programming
+- word break problem (dp)
