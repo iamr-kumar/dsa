@@ -7,6 +7,10 @@ Repo for all dsa problems I practice. Update Daily.
 - n-queens problem (all combinations)
 - word break problem (recurssive)
 - m-coloring-problem
+- all possible paths from top to bottom in a mXn matrix
+- tower of hanoi
+- remove invalid paranthesis
 
 ### Dynamic Programming
 - word break problem (dp)
+- count of paths in a mXn matrix
