@@ -7,6 +7,8 @@
 
 using namespace std;
 
+// This is a simple recursive approach to solve for three rods. TC -> O(2^n)
+
 void solveTowerOfHanoi(int n, char from, char to, char aux) {
     if(n == 1) {
         cout << "Move disk 1 from " << from << "to " << to << "\n";
