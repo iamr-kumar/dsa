@@ -1,6 +1,10 @@
 ## DSA Problems
 Repo for all dsa problems I practice. Update Daily.
 
+### Arrays
+- finding the minimum and maximum in an array with minimum comparison
+- sorting algorithms
+
 ### Backtracking
 - knight tour
 - knight tour with warnsdoff algorithm
