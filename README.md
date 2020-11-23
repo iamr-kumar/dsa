@@ -4,6 +4,12 @@ Repo for all dsa problems I practice. Update Daily.
 ### Arrays
 - finding the minimum and maximum in an array with minimum comparison
 - sorting algorithms
+- kth-smallest-element
+- max and min element in an array
+- rearrange negative elements to the beginning of the array
+- rearrange negative elements to the beginning of the array while maintaing the original order
+- sort an array element with 0, 1 and 2 without using any sorting algorithm
+- find the duplicate element in an array of size n + 1 containing elements between 1 and n.
 
 ### Backtracking
 - knight tour
