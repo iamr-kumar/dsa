@@ -10,6 +10,8 @@ Repo for all dsa problems I practice. Update Daily.
 - rearrange negative elements to the beginning of the array while maintaing the original order
 - sort an array element with 0, 1 and 2 without using any sorting algorithm
 - find the duplicate element in an array of size n + 1 containing elements between 1 and n.
+- merge two sorted arrays in O(1) space
+- max subarray sum (Kadane's algorithm)
 
 ### Backtracking
 - knight tour
