@@ -13,6 +13,7 @@ Repo for all dsa problems I practice. Update Daily.
 - merge two sorted arrays in O(1) space
 - max subarray sum (Kadane's algorithm)
 - merge Intervals
+- cyclically roatate an array by one
 
 ### Backtracking
 - knight tour
