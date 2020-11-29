@@ -12,6 +12,7 @@ Repo for all dsa problems I practice. Update Daily.
 - find the duplicate element in an array of size n + 1 containing elements between 1 and n.
 - merge two sorted arrays in O(1) space
 - max subarray sum (Kadane's algorithm)
+- merge Intervals
 
 ### Backtracking
 - knight tour
