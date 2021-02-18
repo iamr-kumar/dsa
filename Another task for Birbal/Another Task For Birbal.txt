@@ -1,0 +1,18 @@
+Birbal has always proven his intelligence to Akbar. But this time, Akbar has a new challenge for Birbal that he thinks cannot be solved easily.
+Akbar's kingdom has N towns (numbered 1 through N) where each town is assigned a number. A path exists between some of them and there are N - 1 paths in total. Each town can be reached from every other town.
+Akbar wants to travel to each of the town for his monthly visit. But he puts a condition for Birbal. He will only travel on a path if the path is a perfect path.
+A perfect path is a path in which the numbers on the town fulfill certain conditions:
+1. For each valid i, 1 ≤ Ai ≤10^5.
+2. For each perfect path in the kingdom which contains at least two towns, let's denote the set of towns in this path by S. Then, ∑v∈SAv is not divisible by |S|.
+
+Akbar has asked Birbal to assign numbers to the town in such a manner that each possible path becomes a perfect path. Help Birbal in completing this challenge.
+
+Input
+The first line of the input contains a single integer T denoting the number of test cases. The description of T test cases follows.
+The first line of each test case contains a single integer N, denoting the number of towns.
+Each of the next N−1 lines contains two space-separated integers u and v denoting that towns u and v are connected by a path.
+
+Output
+For each test case, print a single line containing N space-separated integers A1,A2,…,AN.
+
+If there are multiple solutions, you may find any one of them. It can be proved that a solution always exists under the given constraints.
