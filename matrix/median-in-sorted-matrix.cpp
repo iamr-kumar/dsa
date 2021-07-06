@@ -22,7 +22,7 @@ public:
             int mid = mn + (mx - mn) / 2;
             int small = 0;
             for(int i = 0; i < r; ++i) {
-                small += upper_bound(matrix[i], matrix[i] + c, mid) - matrix[i];
+                small += upper_bound(matrix[i].begin(), matrix[i].end(), mid) - matrix[i].begin();
             }
             if(small < req) {
                 mn = mid + 1;
